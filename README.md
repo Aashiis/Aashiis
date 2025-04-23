@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **New Web Technologies.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aashiis/](https://www.linkedin.com/in/aashiis/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aashiis/](https://www.linkedin.com/in/aashiis0/)
 
 - 📝 I regularly write articles on [https://www.softhackjt.blogspot.com](https://www.softhackjt.blogspot.com)
 
