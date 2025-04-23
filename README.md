@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Django, Flask, Next.js etc.**
 
-- 📫 How to reach me **facebook.com/aashiis0**
+- 📫 How to reach me **[facebook.com/aashiis0](https://www.facebook.com/aashiis0)**
 
 - ⚡ Fun fact **I think I am funny.😅**
 
